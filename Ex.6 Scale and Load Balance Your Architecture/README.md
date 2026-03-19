@@ -2,8 +2,9 @@
 
 ## Title
 
-Scale and Load Balance Your Architecture
-Author : your name   Reg no : yours   Date :
+## Author :YOGARAJ S
+## Reg no :212223040248
+## Date :19-03-2026
 
 ---
 
@@ -72,6 +73,12 @@ Describe step-by-step how you performed this experiment in your own words.
 
 ## Output Screenshots 
 
+<img width="1908" height="980" alt="Screenshot 2026-03-19 112003" src="https://github.com/user-attachments/assets/ad89ff97-bed5-43c9-8d18-db2c5fea5364" />
+
+
+<img width="1918" height="1078" alt="Screenshot 2026-03-19 112611" src="https://github.com/user-attachments/assets/14a13b3e-a0e8-48fa-990d-a00859e45e81" />
+
+<img width="1916" height="1020" alt="Screenshot 2026-03-19 114424" src="https://github.com/user-attachments/assets/4860d29c-cc54-49c9-ae5c-c4b0238ac8d3" />
 
 ---
 
